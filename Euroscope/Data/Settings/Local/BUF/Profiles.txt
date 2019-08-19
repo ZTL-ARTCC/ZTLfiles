@@ -1,0 +1,30 @@
+PROFILE
+PROFILE:BUF_GND:50:4
+ATIS2:'KBUF Ground'
+ATIS3:'Benny Matthews = BAE'
+ATIS4:
+PROFILE:BUF_TWR:50:4
+ATIS2:'KBUF Tower'
+ATIS3:'Benny Matthews = BAE'
+ATIS4:
+PROFILE:BUF_S_APP:50:4
+ATIS2:'KBUF Approach'
+ATIS3:'Benny Matthews = BAE'
+ATIS4:'Solo Cert(https
+PROFILE:BUF_E_APP:50:4
+ATIS2:'KBUF Approach'
+ATIS3:'Benny Matthews = BAE'
+ATIS4:
+PROFILE:ZOB_WM:400:6
+ATIS2:solo endorsement
+ATIS3:Covering East side of ZOB TMA Only
+ATIS4:
+PROFILE:CLE_S_CTR:400:6
+ATIS2:solo endorsement
+ATIS3:Covering East side of ZOB TMA Only
+ATIS4:
+PROFILE:CLE_04_CTR:500:6
+ATIS2:
+ATIS3:
+ATIS4:
+END

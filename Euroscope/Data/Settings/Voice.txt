@@ -1,0 +1,9 @@
+VOICE
+AG:CLE_64_CTR:134.900:rw.liveatc.net:ZOB_134.90
+AG:BUF_TWR:120.500:rw.liveatc.net:BUF_120.50
+AG:BUF_APP:126.150:rw.liveatc.net:BUF_126.15
+AG:BUF_S_APP:126.150:rw.liveatc.net:BUF_126.15
+AG:BUF_E_APP:126.150:rw.liveatc.net:BUF_126.15
+AG:PIT_TWR:128.300:rw.liveatc.net:PIT_128.30
+AG:PIT_APP:123.950:rw.liveatc.net:PIT_123.95
+END
